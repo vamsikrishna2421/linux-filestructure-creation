@@ -1,0 +1,14 @@
+    ./project
+    ./project/src/main/java
+    ./project/src/main/resources
+    ./project/src/main/filters
+    ./project/src/main/webapp
+    ./project/src/test/java
+    ./project/src/test/resources
+    ./project/src/test/filters
+    ./project/src/it
+    ./project/src/assembly
+    ./project/src/site
+    ./project/LICENSE.txt
+    ./project/NOTICE.txt
+    ./project/README.txt
